@@ -1,0 +1,88 @@
+subject : Identifies the device use
+activity : What activity they were performing, which currently fits in one of the following:
+      1 WALKING
+      2 WALKING_UPSTAIRS
+      3 WALKING_DOWNSTAIRS
+      4 SITTING
+      5 STANDING
+      6 LAYING
+ All feature descriptions beginning with "t" are time domain, measured at 50Hz, while the suffix of X/Y/Z denotes the axis
+tBodyAccMeanX : Filtered body acceleration signal average
+tBodyAccMeanY : Filtered body acceleration signal average
+tBodyAccMeanZ : Filtered body acceleration signal average
+tBodyAccStdX  : Filtered body acceleration signal standard deviation
+tBodyAccStdY  : Filtered body acceleration signal standard deviation
+tBodyAccStdZ  : Filtered body acceleration signal standard deviation
+tGravityAccMeanX : Filtered gravity acceleration signal average
+tGravityAccMeanY : Filtered gravity acceleration signal average
+tGravityAccMeanZ : Filtered gravity acceleration signal average
+tGravityAccStdX : Filtered gravity acceleration signal standard deviation
+tGravityAccStdY : Filtered gravity acceleration signal standard deviation
+tGravityAccStdZ : Filtered gravity acceleration signal standard deviation
+tBodyAccJerkMeanX : Filtered body jerk, i.e. acceleration over time, average
+tBodyAccJerkMeanY : Filtered body jerk, i.e. acceleration over time, average
+tBodyAccJerkMeanZ : Filtered body jerk, i.e. acceleration over time, average
+tBodyAccJerkStdX : Filtered body jerk, i.e. acceleration over time, standard deviation
+tBodyAccJerkStdY : Filtered body jerk, i.e. acceleration over time, standard deviation
+tBodyAccJerkStdZ : Filtered body jerk, i.e. acceleration over time, standard deviation
+tBodyGyroMeanX : Filtered mean signal from gyroscope
+tBodyGyroMeanY : Filtered mean signal from gyroscope
+tBodyGyroMeanZ : Filtered mean signal from gyroscope
+tBodyGyroStdX : Filtered standard deviation of  signal from gyroscope
+tBodyGyroStdY : Filtered standard deviation of  signal from gyroscope
+tBodyGyroStdZ : Filtered standard deviation of  signal from gyroscope
+tBodyGyroJerkMeanX : Average jerk measured from gyroscope
+tBodyGyroJerkMeanY : Average jerk measured from gyroscope
+tBodyGyroJerkMeanZ : Average jerk measured from gyroscope
+tBodyGyroJerkStdX : standard deviation of jerk measured from gyroscope
+tBodyGyroJerkStdY : standard deviation of jerk measured from gyroscope
+tBodyGyroJerkStdZ : standard deviation of jerk measured from gyroscope
+tBodyAccMagMean average of magnitude calculated using Euclidean Norm
+tBodyAccMagStd standard deviation of  of magnitude calculated using Euclidean Norm
+tGravityAccMagMean average of magnitude calculated using Euclidean Norm
+tGravityAccMagStd  standard deviation of magnitude calculated using Euclidean Norm
+tBodyAccJerkMagMean average of magnitude calculated using Euclidean Norm
+tBodyAccJerkMagStd standard deviation of magnitude calculated using Euclidean Norm
+tBodyGyroMagMean average  of magnitude calculated using Euclidean Norm
+tBodyGyroMagStd standard deviation of magnitude calculated using Euclidean Norm
+tBodyGyroJerkMagMean average of magnitude calculated using Euclidean Norm
+tBodyGyroJerkMagStd standard deviation of magnitude calculated using Euclidean Norm
+fBodyAccMeanX frequency domain of above using FFT
+fBodyAccMeanY frequency domain of above using FFT
+fBodyAccMeanZ frequency domain of above using FFT
+fBodyAccStdX frequency domain of above using FFT
+fBodyAccStdY frequency domain of above using FFT
+fBodyAccStdZ frequency domain of above using FFT
+fBodyAccMeanFreqX frequency domain of above using FFT
+fBodyAccMeanFreqY frequency domain of above using FFT
+fBodyAccMeanFreqZ frequency domain of above using FFT
+fBodyAccJerkMeanX frequency domain of above using FFT
+fBodyAccJerkMeanY frequency domain of above using FFT
+fBodyAccJerkMeanZ frequency domain of above using FFT
+fBodyAccJerkStdX frequency domain of above using FFT
+fBodyAccJerkStdY frequency domain of above using FFT
+fBodyAccJerkStdZ frequency domain of above using FFT
+fBodyAccJerkMeanFreqX frequency domain of above using FFT
+fBodyAccJerkMeanFreqY frequency domain of above using FFT
+fBodyAccJerkMeanFreqZ frequency domain of above using FFT
+fBodyGyroMeanX frequency domain of above using FFT
+fBodyGyroMeanY frequency domain of above using FFT
+fBodyGyroMeanZ frequency domain of above using FFT
+fBodyGyroStdX frequency domain of above using FFT
+fBodyGyroStdY frequency domain of above using FFT
+fBodyGyroStdZ frequency domain of above using FFT
+fBodyGyroMeanFreqX frequency domain of above using FFT
+fBodyGyroMeanFreqY frequency domain of above using FFT
+fBodyGyroMeanFreqZ frequency domain of above using FFT
+fBodyAccMagMean frequency domain of above using FFT
+fBodyAccMagStd frequency domain of above using FFT
+fBodyAccMagMeanFreq frequency domain of above using FFT
+fBodyBodyAccJerkMagMean frequency domain of above using FFT
+fBodyBodyAccJerkMagStd frequency domain of above using FFT
+fBodyBodyAccJerkMagMeanFreq frequency domain of above using FFT
+fBodyBodyGyroMagMean frequency domain of above using FFT
+fBodyBodyGyroMagStd frequency domain of above using FFT
+fBodyBodyGyroMagMeanFreq frequency domain of above using FFT
+fBodyBodyGyroJerkMagMean frequency domain of above using FFT
+fBodyBodyGyroJerkMagStd frequency domain of above using FFT
+fBodyBodyGyroJerkMagMeanFreq frequency domain of above using FFT
